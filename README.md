@@ -1,6 +1,6 @@
 # raven
 
-Tool to automate Web Crawling and NLP (Tokenization, Sentiment Analysis).
+Python script to automate Web Crawling and NLP (Tokenization, Sentiment Analysis).
 
 
 
